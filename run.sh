@@ -4,5 +4,5 @@ sudo apt update
 sudo apt install maven -y
 git clone https://github.com/thisaltennakoon/carbon-apimgt
 cd carbon-apimgt
-git checkout 031c324
+git checkout 06a5007
 mvn clean install
